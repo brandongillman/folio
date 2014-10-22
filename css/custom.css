@@ -5,8 +5,8 @@
 	width: 160px;
 }
 .btn{
-	background-color: green;
-	color: white;
+	background-color: #F5F5F5;
+	color: #4169E1;
 }
 .jumbotron{
 	background-color: white;
@@ -30,4 +30,8 @@ form{
 }
 .selfie{
 	margin-top: 20px;
+}
+h3{
+	text-align: center;
+	color: black;
 }
